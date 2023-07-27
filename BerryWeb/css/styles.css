@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 206, 209);
+    color: darkred;
+}
+
+.opening{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.opening p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.opening img{
+    width: 100%;
+    border: 5px dotted #70002b;
+}
